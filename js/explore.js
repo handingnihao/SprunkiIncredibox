@@ -8,6 +8,13 @@ const recommendedGames = [
         description: "Experience the new retake!"
     },
     {
+        href: "../sprunki-phase-10/",
+        imgSrc: "../img/Sprunki-Phase-10.png",
+        alt: "Sprunki Phase 10",
+        title: "Sprunki Phase 10",
+        description: "Discover the new Sprunki Phase 10!"
+    },
+    {
         href: "https://spunky.im/zombies-sprunki/",
         imgSrc: "https://spunky.im/img/Zombies-Sprunki.png",
         alt: "Zombies Sprunki",
